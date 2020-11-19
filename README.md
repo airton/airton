@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://badgeslab-images-bucket.s3-sa-east-1.amazonaws.com/redventures/airton-vancin-junior.png)
