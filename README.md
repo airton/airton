@@ -21,7 +21,7 @@ I am a WordPress expert and have professional experience working with JavaScript
 I write some posts on my [blog](https://airtonvancin.com) about technology.
 
 ![](https://img.shields.io/github/followers/airton?label=Follow)
-![](https://img.shields.io/twitter/follow/airtonvancin?style=social)
+[![](https://img.shields.io/twitter/follow/airtonvancin?style=social)](https://twitter.com/airtonvancin)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airtonvancin/)](https://www.linkedin.com/in/airtonvancin/)
 
 ## 🚀 Technologies
