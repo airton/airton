@@ -38,6 +38,6 @@ Some of the technologies and tools I work with
 ![](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 
-## 🎮 RV Badges
+### 🎮 RV Badges
 
 ![](https://badgeslab-images-bucket.s3-sa-east-1.amazonaws.com/redventures/airton-vancin-junior.png)
