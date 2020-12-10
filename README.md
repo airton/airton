@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+	/github/followers/:user?label=Follow
+
+![](https://img.shields.io/github/followers/airton?label=Follow)
+![](https://img.shields.io/github/stars/airton/:repo?style=social)
+![](https://img.shields.io/twitter/follow/airtonvancin?style=social)
+![](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/airtonvancin/)
 
 ## 🚀 Technologies
 
