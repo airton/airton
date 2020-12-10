@@ -1,4 +1,4 @@
-### Hi Devs 👋
+### Hi there 👋
 
 <!--
 **airton/airton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-	/github/followers/:user?label=Follow
+I’m Airton Vancin Junior and I’m a Front End developer with industry experience creating websites and web apps for about 10 years.
+I am a WordPress expert and have professional experience working with JavaScript and React. I currently work for [Red Ventures](https://www.redventures.com/).
+
+I write some posts on my [blog](https://airtonvancin.com) about technology.
 
 ![](https://img.shields.io/github/followers/airton?label=Follow)
 ![](https://img.shields.io/twitter/follow/airtonvancin?style=social)
@@ -33,8 +36,6 @@ Some of the technologies and tools I work with
 ![](https://img.shields.io/badge/-ReactJS-61DBFB?style=flat-square&logo=react&logoColor=222)
 ![](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-
 
 
 ## 🚀 My Badges RV
