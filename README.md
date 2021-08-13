@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I’m Airton Vancin Junior and I’m a Front End developer with industry experience creating websites and web apps for about 10 years.
 I am a WordPress expert and have professional experience working with JavaScript and React. I currently work for [Red Ventures](https://www.redventures.com/).
 
-I write some posts on my [blog](https://airtonvancin.com) about technology. ![visitors](https://visitor-badge.glitch.me/badge?username=airton)
+I write some posts on my [blog](https://airtonvancin.com) about technology.
 
 
 ![](https://img.shields.io/github/followers/airton?label=Follow)
